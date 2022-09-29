@@ -1,0 +1,6 @@
+#Config (Jekyll)
+name: joschi's page
+description: I do code stuff
+url: "https://joschi27.github.io"
+markdown: kramdown
+highlighter: rouge
